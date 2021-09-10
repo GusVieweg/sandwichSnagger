@@ -1,5 +1,7 @@
 # Sample GroupMe NodeJS Callback Bot
 
+[PAUSED DEVELOPMENT - 08/01/2016]
+
 ## Introduction
 
 This project shows the capability of a bot to react to messages sent within a group.
